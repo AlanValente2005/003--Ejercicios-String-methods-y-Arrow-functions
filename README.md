@@ -4,4 +4,4 @@
 ### Grupo: 4TIDSMG1
 ### Carrera: TSU. En tecnologías de la información área, Desarrollo de software multiplataforma.
 ### Cuatrimestre: Cuarto cuatrimestre.
-### Actividad: 002 - Ejercicios Js Arrays
+### Ac003- Ejercicios String methods y Arrow functions
